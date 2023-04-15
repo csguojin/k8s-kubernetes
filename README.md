@@ -1,3 +1,3 @@
 
 
-https://github.com/kubernetes/kubernetes/tree/v1.26.3
+https://github.com/kubernetes/kubernetes/tree/v1.23.15
